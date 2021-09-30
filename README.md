@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prem225
-- 👀 I’m interested in frontend Developer
+- 💻 I’m interested in frontend Developer
 - 🌱 I’m currently learning Javascript
 
 
